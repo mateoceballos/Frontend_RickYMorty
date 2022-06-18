@@ -1,0 +1,32 @@
+{
+  "favorites": [
+    {
+      "id": 7,
+      "name": "Abradolf Lincler",
+      "species": "Human",
+      "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+    },
+    {
+      "charactersByIds": [
+        {
+          "__typename": "Character",
+          "name": "Abradolf Lincler",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/7.jpeg"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "charactersByIds": [
+        {
+          "__typename": "Character",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        }
+      ],
+      "id": 9
+    }
+  ]
+}
