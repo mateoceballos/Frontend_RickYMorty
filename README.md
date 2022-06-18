@@ -39,7 +39,7 @@ Se realiza el almacenamiento de favoritos en la ruta api/db.json
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de pruebas y desarrollo._
 
 ```bash
-  git clone 
+  git clone https://github.com/mateoceballos/Frontend_RickYMorty.git
 ```
 ```bash
   cd Frontend_RickYMorty
